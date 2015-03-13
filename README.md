@@ -5,7 +5,8 @@
 # Installation
 
 `go build todo.go`
-`cp todo /usr/local/bin/todo/`
+
+`cp todo /usr/local/bin/todo`
 
 # Usage
  
